@@ -1,2 +1,2 @@
 counsole.error("HALP!")
-counsole.log("I Would Be A Logger.")
+counsole.log("This code was called.")
